@@ -1,0 +1,5 @@
+com\parkingtest\InvalidInputFormat.class
+com\parkingtest\RemoteControlledCars.class
+com\parkingtest\Position.class
+com\parkingtest\OutOfBoundsException.class
+com\parkingtest\Direction.class
